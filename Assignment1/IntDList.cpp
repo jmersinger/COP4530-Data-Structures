@@ -99,7 +99,7 @@ string IntDLList::addToString() const {
     return a;
 }
 
-// ******Used for quick testing during development; Is run and tested with intDList.cpp using "g++ -std17=c++17 -Wall IntDList.cpp intDList_test.cpp" in terminal
+// ******Used for quick testing during development; Program is run and tested with intDList.cpp using "g++ -std17=c++17 -Wall IntDList.cpp intDList_test.cpp" in terminal
 // int main() {
 //     IntDLList myList;
 //     myList.insertInOrder(9);
