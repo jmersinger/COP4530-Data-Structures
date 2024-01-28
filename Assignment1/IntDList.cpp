@@ -1,3 +1,5 @@
+//This code defines the functions for implementing a doubly linked list that adds integers in ascending order
+
 #include "IntDList_node.hpp"
 #include "IntDList.hpp"
 #include <string>
