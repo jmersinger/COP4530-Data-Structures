@@ -1,3 +1,5 @@
+//Code Provided by Professor
+
 //           Doubly-linked list class to store integers
 #ifndef INTDLISTNODE_H
 #define INTDLISTNODE_H
